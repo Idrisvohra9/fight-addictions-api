@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "lib": ["dom", "deno.ns"]
+    },
+    "tasks": {
+      "start": "deno serve --port 8000 --watch ./api/app.ts"
+    }
+  }
+  
