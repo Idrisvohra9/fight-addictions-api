@@ -3,7 +3,6 @@ import fightDrugsData from "./fightDrugsQuotes.json" with { type: "json" };
 import fightScreenData from "./fightScreenQuotes.json" with { type: "json"};
 import fightGamblingData from "./fightGamblingQuotes.json" with { type: "json"};
 import fightFoodData from "./fightFoodQuotes.json" with { type: "json"};
-import { serveFile } from "https://deno.land/std@0.207.0/http/file_server.ts";
 
 const getQuoteResponse = (quotes: any[], type: string | null) =>
   type === "random" ? quotes[Math.floor(Math.random() * quotes.length)] :
@@ -41,12 +40,6 @@ export default {
         return createJsonResponse(getQuoteResponse(fightFoodData, quoteType), 200);
 
     }
-
-    // if (pathname === "/add/quotes" && req.method === "POST") {
-    //   const body = await req.json();
-    //   return createJsonResponse({ message: `User ${body.name} added.` }, 201);
-    // }
-
     return new Response("Not Found", { status: 404 });
   },
 };
