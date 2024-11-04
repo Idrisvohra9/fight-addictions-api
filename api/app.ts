@@ -1,73 +1,51 @@
 import fightLustData from "./fightLustQuotes.json" with { type: "json" };
 import fightDrugsData from "./fightDrugsQuotes.json" with { type: "json" };
+import fightScreenData from "./fightScreenQuotes.json" with { type: "json"};
+import fightGamblingData from "./fightGamblingQuotes.json" with { type: "json"};
+import fightFoodData from "./fightFoodQuotes.json" with { type: "json"};
+
+const getQuoteResponse = (quotes: any[], type: string | null) =>
+  type === "random" ? quotes[Math.floor(Math.random() * quotes.length)] :
+    type === "daily" ? quotes[new Date().getDate() - 1] :
+      quotes;
+
+const createJsonResponse = (data: any, status: number) =>
+  new Response(JSON.stringify(data), {
+    headers: { "Content-Type": "application/json" },
+    status
+  });
 
 export default {
   async fetch(req: Request): Promise<Response> {
-    const url = new URL(req.url);
+    const { pathname, searchParams } = new URL(req.url);
+    const quoteType = searchParams.get("type");
 
-    // Define routes
-    if (url.pathname === "/" && req.method === "GET") {
-      return new Response("Welcome to Fight Addictions API!", { status: 200 });
-      // Fight Lust Quotes
-    } else if (url.pathname === "/lust/quotes" && req.method === "GET") {
-      // Fight Lust Quotes - Random Quote
-      if (url.searchParams.get("type") === "random") {
-        const randomIndex = Math.floor(Math.random() * fightLustData.length);
-        const randomQuote = fightLustData[randomIndex];
-        return new Response(JSON.stringify(randomQuote), {
-          headers: { "Content-Type": "application/json" },
-          status: 200
-        });
+    if (req.method === "GET") {
+      if (pathname === "/" && req.method === "GET")
+        return new Response("Welcome to Fight Addictions API!", { status: 200 });
 
-      // Fight Lust Quotes - Daily Quote
-      } else if (url.searchParams.get("type") === "daily"){
-        const currentDate = new Date();
-        const currentDay = currentDate.getDate();
-        const todaysQuote = fightLustData[currentDay-1];
-        return new Response(JSON.stringify(todaysQuote), {
-          headers: { "Content-Type": "application/json" },
-          status: 200
-        });
-      }
+      if (pathname === "/lust/quotes")
+        return createJsonResponse(getQuoteResponse(fightLustData, quoteType), 200);
 
-      return new Response(JSON.stringify(fightLustData), {
-        headers: { "Content-Type": "application/json" },
-        status: 200
-      });
-      // Fight Drugs Quotes
-    } else if (url.pathname === "/drugs/quotes" && req.method === "GET") {
-      // Fight drugs Quotes - Random Quote
-      if (url.searchParams.get("type") === "random") {
-        const randomIndex = Math.floor(Math.random() * fightDrugsData.length);
-        const randomQuote = fightDrugsData[randomIndex];
-        return new Response(JSON.stringify(randomQuote), {
-          headers: { "Content-Type": "application/json" },
-          status: 200
-        });
+      if (pathname === "/drugs/quotes")
+        return createJsonResponse(getQuoteResponse(fightDrugsData, quoteType), 200);
 
-      // Fight drugs Quotes - Daily Quote
-      } else if (url.searchParams.get("type") === "daily"){
-        const currentDate = new Date();
-        const currentDay = currentDate.getDate();
-        const todaysQuote = fightDrugsData[currentDay-1];
-        return new Response(JSON.stringify(todaysQuote), {
-          headers: { "Content-Type": "application/json" },
-          status: 200
-        });
-      }
+      if (pathname === "/screen/quotes")
+        return createJsonResponse(getQuoteResponse(fightScreenData, quoteType), 200);
 
-      return new Response(JSON.stringify(fightLustData), {
-        headers: { "Content-Type": "application/json" },
-        status: 200
-      });
-    } else if (url.pathname === "/add/quotes" && req.method === "POST") {
-      const body = await req.json();
-      return new Response(JSON.stringify({ message: `User ${body.name} added.` }), {
-        headers: { "Content-Type": "application/json" },
-        status: 201
-      });
-    } else {
-      return new Response("Not Found", { status: 404 });
+      if (pathname === "/gambling/quotes")
+        return createJsonResponse(getQuoteResponse(fightGamblingData, quoteType), 200);
+
+      if (pathname === "/food/quotes")
+        return createJsonResponse(getQuoteResponse(fightFoodData, quoteType), 200);
+
     }
+
+    // if (pathname === "/add/quotes" && req.method === "POST") {
+    //   const body = await req.json();
+    //   return createJsonResponse({ message: `User ${body.name} added.` }, 201);
+    // }
+
+    return new Response("Not Found", { status: 404 });
   },
 };
