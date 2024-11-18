@@ -4,7 +4,7 @@ Overcoming addictions is a crucial step towards living a healthier and more fulf
 
 # About the API:
 
-This project is a free RESTful API (You do not even need to sign up to use it) built with [Deno](https://deno.com/). It provides endpoints for really moving quotes that help people get motivated to fight their addictions.
+This project is a free RESTful API (You do not even need to sign up to use it) built with [Deno](https://deno.com/). It provides endpoints for really moving quotes that help people get motivated to fight their addictions and get back on track.
 
 ### Find the API deployed [here](https://fight-addictions-api.deno.dev/).
 
@@ -21,22 +21,25 @@ Some of the addictions it tackles are:
 - Video Games
 - Food 
 
+#### Additionally it also helps people get motivation to complete their daily tasks.
+
 # How to integrate the API:
 
 As I said, the API is free to use, so you can use it in your projects without any restrictions.
 To integrate the API in your project you can use the following endpoints:
 
 ## Get a random quote:
-- **Tackle Lust, Sex, Masturbation, Porn Addictions**: GET [lust/quotes?type=random](https://fight-addictions-api.deno.dev/lust/quotes?type=random)
-- **Tackle Drugs, Alcohol Addictions**: GET [drugs/quotes?type=random](https://fight-addictions-api.deno.dev/drugs/quotes?type=random)
-- **Tackle Gambling Addictions**: GET [gambling/quotes?type=random](https://fight-addictions-api.deno.dev/gambling/quotes?type=random)
-- **Tackle Phone, Video Games Addictions**: GET [screen/quotes?type=random](https://fight-addictions-api.deno.dev/screen/quotes?type=random)
-- **Tackle Food Addictions**: GET [food/quotes?type=random](https://fight-addictions-api.deno.dev/food/quotes?type=random)
-
+- **Tackle Lust, Sex, Masturbation, Porn Addictions**: GET [/lust/quotes?type=random](https://fight-addictions-api.deno.dev/lust/quotes?type=random)
+- **Tackle Drugs, Alcohol Addictions**: GET [/drugs/quotes?type=random](https://fight-addictions-api.deno.dev/drugs/quotes?type=random)
+- **Tackle Gambling Addictions**: GET [/gambling/quotes?type=random](https://fight-addictions-api.deno.dev/gambling/quotes?type=random)
+- **Tackle Phone, Video Games Addictions**: GET [/screen/quotes?type=random](https://fight-addictions-api.deno.dev/screen/quotes?type=random)
+- **Tackle Food Addictions**: GET [/food/quotes?type=random](https://fight-addictions-api.deno.dev/food/quotes?type=random)
+- **Get Motivated to Achieve**: GET [/motivational/quotes?type=random](https://fight-addictions-api.deno.dev/motivational/quotes?type=random)
 ## Get a daily quote:
 
-- **Tackle Lust, Sex, Masturbation, Porn Addictions**: GET [lust/quotes?type=daily](https://fight-addictions-api.deno.dev/lust/quotes?type=daily)
-- **Tackle Drugs, Alcohol Addictions**: GET [drugs/quotes?type=daily](https://fight-addictions-api.deno.dev/drugs/quotes?type=daily)
-- **Tackle Gambling Addictions**: GET [gambling/quotes?type=daily](https://fight-addictions-api.deno.dev/gambling/quotes?type=daily)
-- **Tackle Phone, Video Games Addictions**: GET [screen/quotes?type=daily](https://fight-addictions-api.deno.dev/screen/quotes?type=daily)
-- **Tackle Food Addictions**: GET [food/quotes?type=daily](https://fight-addictions-api.deno.dev/food/quotes?type=daily)
+- **Tackle Lust, Sex, Masturbation, Porn Addictions**: GET [/lust/quotes?type=daily](https://fight-addictions-api.deno.dev/lust/quotes?type=daily)
+- **Tackle Drugs, Alcohol Addictions**: GET [/drugs/quotes?type=daily](https://fight-addictions-api.deno.dev/drugs/quotes?type=daily)
+- **Tackle Gambling Addictions**: GET [/gambling/quotes?type=daily](https://fight-addictions-api.deno.dev/gambling/quotes?type=daily)
+- **Tackle Phone, Video Games Addictions**: GET [/screen/quotes?type=daily](https://fight-addictions-api.deno.dev/screen/quotes?type=daily)
+- **Tackle Food Addictions**: GET [/food/quotes?type=daily](https://fight-addictions-api.deno.dev/food/quotes?type=daily)
+- **Get Motivated to Achieve**: GET [/motivational/quotes?type=daily](https://fight-addictions-api.deno.dev/motivational/quotes?type=daily)

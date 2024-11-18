@@ -3,6 +3,7 @@ import fightDrugsData from "./fightDrugsQuotes.json" with { type: "json" };
 import fightScreenData from "./fightScreenQuotes.json" with { type: "json"};
 import fightGamblingData from "./fightGamblingQuotes.json" with { type: "json"};
 import fightFoodData from "./fightFoodQuotes.json" with { type: "json"};
+import motivationData from "./motivationQuotes.json" with { type: "json"};
 
 const getQuoteResponse = (quotes: any[], type: string | null) =>
   type === "random" ? quotes[Math.floor(Math.random() * quotes.length)] :
@@ -22,7 +23,7 @@ export default {
 
     if (req.method === "GET") {
       if (pathname === "/")
-        return new Response("Welcome to Fight Addictions API!\n\nGet a random quote:\n- Tackle Lust, Sex, Masturbation, Porn Addictions: GET lust/quotes?type=random\n- Tackle Drugs, Alcohol Addictions: GET drugs/quotes?type=random\n- Tackle Gambling Addictions: GET gambling/quotes?type=random\n- Tackle Phone, Video Games Addictions: GET screen/quotes?type=random\n- Tackle Food Addictions: GET food/quotes?type=random\n\nGet a daily quote:\n- Tackle Lust, Sex, Masturbation, Porn Addictions: GET lust/quotes?type=daily\n- Tackle Drugs, Alcohol Addictions: GET drugs/quotes?type=daily\n- Tackle Gambling Addictions: GET gambling/quotes?type=daily\n- Tackle Phone, Video Games Addictions: GET screen/quotes?type=daily\n- Tackle Food Addictions: GET food/quotes?type=daily", { status: 200 });
+        return new Response("Welcome to Fight Addictions API!\n\nGet a random quote:\n- Tackle Lust, Sex, Masturbation, Porn Addictions: GET /lust/quotes?type=random\n- Tackle Drugs, Alcohol Addictions: GET /drugs/quotes?type=random\n- Tackle Gambling Addictions: GET /gambling/quotes?type=random\n- Tackle Phone, Video Games Addictions: GET /screen/quotes?type=random\n- Tackle Food Addictions: GET /food/quotes?type=random\n Get Motivated to Achieve: GET /motivational/quotes?type=random \nGet a daily quote:\n- Tackle Lust, Sex, Masturbation, Porn Addictions: GET /lust/quotes?type=daily\n- Tackle Drugs, Alcohol Addictions: GET /drugs/quotes?type=daily\n- Tackle Gambling Addictions: GET /gambling/quotes?type=daily\n- Tackle Phone, Video Games Addictions: GET /screen/quotes?type=daily\n- Tackle Food Addictions: GET /food/quotes?type=daily\n Get Motivated to Achieve: GET /motivational/quotes?type=daily\n", { status: 200 });
 
       if (pathname === "/lust/quotes")
         return createJsonResponse(getQuoteResponse(fightLustData, quoteType), 200);
@@ -39,6 +40,8 @@ export default {
       if (pathname === "/food/quotes")
         return createJsonResponse(getQuoteResponse(fightFoodData, quoteType), 200);
 
+      if (pathname === "/motivational/quotes")
+        return createJsonResponse(getQuoteResponse(motivationData, quoteType), 200);
     }
     return new Response("Not Found", { status: 404 });
   },
