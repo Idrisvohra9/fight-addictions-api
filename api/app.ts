@@ -4,7 +4,6 @@ import fightScreenData from "../data/fightScreenQuotes.json" with { type: "json"
 import fightGamblingData from "../data/fightGamblingQuotes.json" with { type: "json" };
 import fightFoodData from "../data/fightFoodQuotes.json" with { type: "json" };
 import motivationData from "../data/motivationQuotes.json" with { type: "json" };
-import { serve } from "https://deno.land/std@0.198.0/http/server.ts";
 import { join } from "https://deno.land/std@0.198.0/path/mod.ts";
 
 const getQuoteResponse = (quotes: any[], type: string | null) =>
