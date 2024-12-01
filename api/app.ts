@@ -5,17 +5,26 @@ import fightGamblingData from "../data/fightGamblingQuotes.json" with { type: "j
 import fightFoodData from "../data/fightFoodQuotes.json" with { type: "json" };
 import motivationData from "../data/motivationQuotes.json" with { type: "json" };
 import { join } from "https://deno.land/std@0.198.0/path/mod.ts";
+interface Quote {
+  id: number;
+  quote: string;
+}
 
-const getQuoteResponse = (quotes: any[], type: string | null) =>
+const getQuoteResponse = (quotes: Quote[], type: string | null) =>
   type === "random"
     ? quotes[Math.floor(Math.random() * quotes.length)]
     : type === "daily"
     ? quotes[new Date().getDate() - 1]
     : quotes;
 
-const createJsonResponse = (data: any, status: number) =>
+const createJsonResponse = (data: Quote, status: number) =>
   new Response(JSON.stringify(data), {
-    headers: { "Content-Type": "application/json" },
+    headers: { 
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET",
+      "Access-Control-Allow-Headers": "Content-Type, Authorization"
+    },
     status,
   });
 
@@ -24,6 +33,18 @@ export default {
     const { pathname, searchParams } = new URL(req.url);
     const quoteType = searchParams.get("type");
 
+    // Handle CORS preflight requests
+    if (req.method === "OPTIONS") {
+      return new Response(null, {
+        headers: {
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Methods": "GET",
+          "Access-Control-Allow-Headers": "Content-Type, Authorization"
+        },
+        status: 204,
+      });
+    }
+
     if (req.method === "GET") {
       if (pathname === "/") {
         // Serve the index.html file for the root path
@@ -31,7 +52,10 @@ export default {
           const filePath = join(Deno.cwd(), "./index.html");
           const file = await Deno.readFile(filePath);
           return new Response(file, {
-            headers: { "Content-Type": "text/html" },
+            headers: { 
+              "Content-Type": "text/html",
+              "Access-Control-Allow-Origin": "*"
+            },
             status: 200,
           });
         } catch {
@@ -55,7 +79,10 @@ export default {
           }[ext || ""];
 
           return new Response(file, {
-            headers: { "Content-Type": mimeType || "application/octet-stream" },
+            headers: { 
+              "Content-Type": mimeType || "application/octet-stream",
+              "Access-Control-Allow-Origin": "*"
+            },
             status: 200,
           });
         } catch {
@@ -63,24 +90,35 @@ export default {
         }
       }
       if (pathname === "/lust/quotes")
-        return createJsonResponse(getQuoteResponse(fightLustData, quoteType), 200);
+
+        return createJsonResponse(getQuoteResponse(fightLustData, quoteType) as Quote, 200);
 
       if (pathname === "/drugs/quotes")
-        return createJsonResponse(getQuoteResponse(fightDrugsData, quoteType), 200);
+
+        return createJsonResponse(getQuoteResponse(fightDrugsData, quoteType) as Quote, 200);
 
       if (pathname === "/screen/quotes")
-        return createJsonResponse(getQuoteResponse(fightScreenData, quoteType), 200);
+
+        return createJsonResponse(getQuoteResponse(fightScreenData, quoteType) as Quote, 200);
 
       if (pathname === "/gambling/quotes")
-        return createJsonResponse(getQuoteResponse(fightGamblingData, quoteType), 200);
+
+        return createJsonResponse(getQuoteResponse(fightGamblingData, quoteType) as Quote, 200);
 
       if (pathname === "/food/quotes")
-        return createJsonResponse(getQuoteResponse(fightFoodData, quoteType), 200);
+
+        return createJsonResponse(getQuoteResponse(fightFoodData, quoteType) as Quote, 200);
 
       if (pathname === "/motivational/quotes")
-        return createJsonResponse(getQuoteResponse(motivationData, quoteType), 200);
+
+        return createJsonResponse(getQuoteResponse(motivationData, quoteType) as Quote, 200);
     }
 
-    return new Response("Not Found", { status: 404 });
-  },
-};
+    return new Response("Not Found", { 
+      headers: {
+        "Access-Control-Allow-Origin": "*"
+      },
+      status: 404 
+    });
+
+  },};
