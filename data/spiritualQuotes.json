@@ -1,0 +1,398 @@
+[
+    {
+        "id": 1,
+        "quote": "The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul.",
+        "religion": "Christianity",
+        "source": "Psalms 23:1-3"
+    },
+    {
+        "id": 2,
+        "quote": "Allah does not burden a soul beyond that it can bear. [Quran 2:286]",
+        "religion": "Islam",
+        "source": "Quran"
+    },
+    {
+        "id": 3,
+        "quote": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+        "religion": "Christianity",
+        "source": "Colossians 3:23"
+    },
+    {
+        "id": 4,
+        "quote": "The soul is neither born nor does it die; it is eternal, imperishable, and ancient. It is not destroyed when the body is destroyed.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:20"
+    },
+    {
+        "id": 5,
+        "quote": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight.",
+        "religion": "Judaism",
+        "source": "Proverbs 3:5-6"
+    },
+    {
+        "id": 6,
+        "quote": "When you have faith in Allah and follow His guidance, peace will fill your heart, and difficulties will become opportunities.",
+        "religion": "Islam",
+        "source": "Inspired by Quranic principles"
+    },
+    {
+        "id": 7,
+        "quote": "You are the light of the world. A city set on a hill cannot be hidden; nor does anyone light a lamp and put it under a basket, but on the lampstand, and it gives light to all who are in the house.",
+        "religion": "Christianity",
+        "source": "Matthew 5:14-15"
+    },
+    {
+        "id": 8,
+        "quote": "As a lotus flower is born in water, grows in water and rises out of water to stand above it unsoaked, so I teach you to live in the world.",
+        "religion": "Buddhism",
+        "source": "Bhagavad Gita"
+    },
+    {
+        "id": 9,
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "religion": "Judaism",
+        "source": "Inspired by Proverbs"
+    },
+    {
+        "id": 10,
+        "quote": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+        "religion": "Buddhism",
+        "source": "Dalai Lama teachings"
+    },
+    {
+        "id": 11,
+        "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+        "religion": "Sikhism",
+        "source": "Inspired by Sikh teachings of resilience"
+    },
+    {
+        "id": 12,
+        "quote": "The spiritual journey is individual, highly personal. It can't be organized or regulated. It isn't true that everyone should follow one path. Listen to your own truth.",
+        "religion": "Jainism",
+        "source": "Jain Philosophy"
+    },
+    {
+        "id": 13,
+        "quote": "Seek knowledge from the cradle to the grave.",
+        "religion": "Islam",
+        "source": "Hadith"
+    },
+    {
+        "id": 14,
+        "quote": "The self is the friend of a man who masters himself through the self, but for a man without self-mastery, the self is like an enemy.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 6.6"
+    },
+    {
+        "id": 15,
+        "quote": "Peace cannot be kept by force; it can only be achieved by understanding.",
+        "religion": "Judaism",
+        "source": "Inspired by Jewish Teachings of Peace"
+    },
+    {
+        "id": 16,
+        "quote": "The wound is the place where the Light enters you.",
+        "religion": "Sufism",
+        "source": "Rumi's Teachings"
+    },
+    {
+        "id": 17,
+        "quote": "Before you speak, let your words pass through three gates: Is it true? Is it necessary? Is it kind?",
+        "religion": "Jainism",
+        "source": "Jain Ethical Teachings"
+    },
+    {
+        "id": 18,
+        "quote": "The best among you are those who have the best manners and character.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad's Teachings"
+    },
+    {
+        "id": 19,
+        "quote": "Ahimsa paramo dharma - Non-violence is the highest moral virtue.",
+        "religion": "Jainism",
+        "source": "Jain Scriptures"
+    },
+    {
+        "id": 20,
+        "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+        "religion": "Sufism",
+        "source": "Sufi Mystical Wisdom"
+    },
+    {
+        "id": 21,
+        "quote": "The universe is not outside of you. Look inside yourself; everything that you want, you already are.",
+        "religion": "Sufism",
+        "source": "Rumi's Teachings"
+    },
+    {
+        "id": 22,
+        "quote": "Silence is the language of God, all else is poor translation.",
+        "religion": "Sikhism",
+        "source": "Sikh Spiritual Wisdom"
+    },
+    {
+        "id": 23,
+        "quote": "Peace comes from within. Do not seek it without.",
+        "religion": "Buddhism",
+        "source": "Buddha's Teachings"
+    },
+    {
+        "id": 24,
+        "quote": "Every saint has a past, and every sinner has a future.",
+        "religion": "Christianity",
+        "source": "Inspired by Christian Teachings of Redemption"
+    },
+    {
+        "id": 25,
+        "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "religion": "Buddhism",
+        "source": "Buddha's Teachings"
+    },
+    {
+        "id": 26,
+        "quote": "The quieter you become, the more you can hear.",
+        "religion": "Buddhism",
+        "source": "Zen Buddhist Wisdom"
+    },
+    {
+        "id": 27,
+        "quote": "As a person sheds worn-out garments and puts on new ones, so does the embodied soul shed its worn-out bodies and enter into new ones.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:22"
+    },
+    {
+        "id": 28,
+        "quote": "Indeed, Allah will not change the condition of a people until they change what is in themselves.",
+        "religion": "Islam",
+        "source": "Quran 13:11"
+    },
+    {
+        "id": 29,
+        "quote": "To understand everything is to forgive everything.",
+        "religion": "Hinduism",
+        "source": "Hindu Philosophical Wisdom"
+    },
+    {
+        "id": 30,
+        "quote": "The best way to find yourself is to lose yourself in the service of others.",
+        "religion": "Jainism",
+        "source": "Jain Humanitarian Teachings"
+    },
+    {
+        "id": 31,
+        "quote": "Your inner voice is your most powerful guide; learn to listen to it.",
+        "religion": "Sikhism",
+        "source": "Sikh Spiritual Guidance"
+    },
+    {
+        "id": 32,
+        "quote": "Those who have loved are those who have found God.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 33,
+        "quote": "Where there is forgiveness, there is God.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 34,
+        "quote": "He who has no faith in himself can never have faith in God.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 35,
+        "quote": "Truth is high, but higher still is truthful living.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 36,
+        "quote": "What we think, we become. The mind is everything.",
+        "religion": "Sikhism",
+        "source": "Sikh Teachings"
+    },
+    {
+        "id": 37,
+        "quote": "The world is as we are; tree of poison, tree of nectar are we.",
+        "religion": "Hinduism",
+        "source": "Yoga Vasishtha"
+    },
+    {
+        "id": 38,
+        "quote": "When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 6:19"
+    },
+    {
+        "id": 39,
+        "quote": "The self is hidden in the hearts of all, as butter lies hidden in cream.",
+        "religion": "Hinduism",
+        "source": "Shvetashvatara Upanishad"
+    },
+    {
+        "id": 40,
+        "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+        "religion": "Hinduism",
+        "source": "Hindu Wisdom"
+    },
+    {
+        "id": 41,
+        "quote": "The wise see the same in all — whether it be a learned and humble priest, a cow, an elephant, a dog, or a dog-eater.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 5:18"
+    },
+    {
+        "id": 42,
+        "quote": "Be merciful to others, just as your Father is merciful to you.",
+        "religion": "Christianity",
+        "source": "Luke 6:36"
+    },
+    {
+        "id": 43,
+        "quote": "Verily, with every hardship comes ease.",
+        "religion": "Islam",
+        "source": "Quran 94:5-6"
+    },
+    {
+        "id": 44,
+        "quote": "Live and let live - this is the essence of Jain philosophy.",
+        "religion": "Jainism",
+        "source": "Jain Principle of Ahimsa"
+    },
+    {
+        "id": 45,
+        "quote": "For God so loved the world that he gave his one and only Son.",
+        "religion": "Christianity",
+        "source": "John 3:16"
+    },
+    {
+        "id": 46,
+        "quote": "Kindness is a mark of faith, and whoever is not kind has no faith.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad's Teachings"
+    },
+    {
+        "id": 47,
+        "quote": "Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 48,
+        "quote": "Knowledge is power and it can command obedience. A man of knowledge during his lifetime can make people obey and follow him.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 49,
+        "quote": "The tongue is like a lion. If you let it loose, it will wound someone.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 50,
+        "quote": "A moment of patience in a moment of anger prevents a thousand moments of regret.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 51,
+        "quote": "The strongest among you is the one who controls his anger.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 52,
+        "quote": "Who is wise? One who learns from every person.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 4:1"
+    },
+    {
+        "id": 53,
+        "quote": "What is hateful to you, do not do to your fellow.",
+        "religion": "Judaism",
+        "source": "Hillel, Talmud Shabbat 31a"
+    },
+    {
+        "id": 54,
+        "quote": "The highest form of wisdom is kindness.",
+        "religion": "Judaism",
+        "source": "Talmud Berakot"
+    },
+    {
+        "id": 55,
+        "quote": "Say little and do much.",
+        "religion": "Judaism",
+        "source": "Shammai, Pirkei Avot 1:15"
+    },
+    {
+        "id": 56,
+        "quote": "If I am not for myself, who will be for me? If I am only for myself, what am I?",
+        "religion": "Judaism",
+        "source": "Hillel, Pirkei Avot 1:14"
+    },
+    {
+        "id": 57,
+        "quote": "Love your enemies and pray for those who persecute you.",
+        "religion": "Christianity",
+        "source": "Matthew 5:44"
+    },
+    {
+        "id": 58,
+        "quote": "Do not judge, or you too will be judged.",
+        "religion": "Christianity",
+        "source": "Matthew 7:1"
+    },
+    {
+        "id": 59,
+        "quote": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?",
+        "religion": "Christianity",
+        "source": "Mark 8:36"
+    },
+    {
+        "id": 60,
+        "quote": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+        "religion": "Christianity",
+        "source": "Ephesians 4:32"
+    },
+    {
+        "id": 61,
+        "quote": "Let all that you do be done in love.",
+        "religion": "Christianity",
+        "source": "1 Corinthians 16:14"
+    },
+    {
+        "id": 62,
+        "quote": "Your heart is the size of an ocean. Go find yourself in its hidden depths.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 63,
+        "quote": "What you seek is seeking you.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 64,
+        "quote": "The wound is the place where the Light enters you.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 65,
+        "quote": "The universe is not outside of you. Look inside yourself; everything that you want, you already are.",
+        "religion": "Sufism",
+        "source": "Ibn Arabi"
+    },
+    {
+        "id": 66,
+        "quote": "The quieter you become, the more you are able to hear.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    }
+]

@@ -4,20 +4,25 @@ import fightScreenData from "../data/fightScreenQuotes.json" with { type: "json"
 import fightGamblingData from "../data/fightGamblingQuotes.json" with { type: "json" };
 import fightFoodData from "../data/fightFoodQuotes.json" with { type: "json" };
 import motivationData from "../data/motivationQuotes.json" with { type: "json" };
+import spiritualData from "../data/spiritualQuotes.json" with { type: "json" };
+
 import { join } from "https://deno.land/std@0.198.0/path/mod.ts";
 interface Quote {
   id: number;
   quote: string;
+  source?: string | undefined;
+  religion?: string | undefined;
 }
-
 const getQuoteResponse = (quotes: Quote[], type: string | null) =>
   type === "random"
     ? quotes[Math.floor(Math.random() * quotes.length)]
     : type === "daily"
     ? quotes[new Date().getDate() - 1]
     : quotes;
+const getReligiousQuotes = (religion: string) => 
+  spiritualData.filter((quote) => quote.religion.toUpperCase() === religion);
 
-const createJsonResponse = (data: Quote, status: number) =>
+const createJsonResponse = (data: Quote | Quote[], status: number) =>
   new Response(JSON.stringify(data), {
     headers: { 
       "Content-Type": "application/json",
@@ -112,6 +117,16 @@ export default {
       if (pathname === "/motivational/quotes")
 
         return createJsonResponse(getQuoteResponse(motivationData, quoteType) as Quote, 200);
+
+      if (pathname.startsWith("/spiritual/quotes/")){
+        const parts = pathname.split('/');
+        const endPart = parts.pop()?.toUpperCase();
+        // console.log(endPart);
+        if(endPart !== "quotes"){
+          return createJsonResponse(getReligiousQuotes(endPart as string) as unknown as Quote, 200);
+        }
+        return createJsonResponse(getQuoteResponse(spiritualData, quoteType) as Quote, 200);
+      }
     }
 
     return new Response("Not Found", { 
