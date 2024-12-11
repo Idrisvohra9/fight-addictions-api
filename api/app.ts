@@ -19,8 +19,10 @@ const getQuoteResponse = (quotes: Quote[], type: string | null) =>
     : type === "daily"
     ? quotes[new Date().getDate() - 1]
     : quotes;
-const getReligiousQuotes = (religion: string) => 
-  spiritualData.filter((quote) => quote.religion.toUpperCase() === religion);
+const getReligiousQuotes = (religion: string, type: string | null) => {
+  const filteredQuotes = spiritualData.filter((quote) => quote.religion?.toUpperCase() === religion);
+  return getQuoteResponse(filteredQuotes, type);
+};
 
 const createJsonResponse = (data: Quote | Quote[], status: number) =>
   new Response(JSON.stringify(data), {
@@ -118,12 +120,11 @@ export default {
 
         return createJsonResponse(getQuoteResponse(motivationData, quoteType) as Quote, 200);
 
-      if (pathname.startsWith("/spiritual/quotes/")){
+      if (pathname.startsWith("/spiritual/quotes")){
         const parts = pathname.split('/');
-        const endPart = parts.pop()?.toUpperCase();
-        // console.log(endPart);
-        if(endPart !== "quotes"){
-          return createJsonResponse(getReligiousQuotes(endPart as string) as unknown as Quote, 200);
+        const religion = parts[3]?.toUpperCase();
+        if(religion && religion !== "QUOTES"){
+          return createJsonResponse(getReligiousQuotes(religion, quoteType) as Quote, 200);
         }
         return createJsonResponse(getQuoteResponse(spiritualData, quoteType) as Quote, 200);
       }
