@@ -1,0 +1,1676 @@
+[
+    {
+        "id": 1,
+        "quote": "The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul.",
+        "religion": "Christianity",
+        "source": "Psalms 23:1-3"
+    },
+    {
+        "id": 2,
+        "quote": "Allah does not burden a soul beyond that it can bear. [Quran 2:286]",
+        "religion": "Islam",
+        "source": "Quran"
+    },
+    {
+        "id": 3,
+        "quote": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+        "religion": "Christianity",
+        "source": "Colossians 3:23"
+    },
+    {
+        "id": 4,
+        "quote": "The soul is neither born nor does it die; it is eternal, imperishable, and ancient. It is not destroyed when the body is destroyed.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:20"
+    },
+    {
+        "id": 5,
+        "quote": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight.",
+        "religion": "Judaism",
+        "source": "Proverbs 3:5-6"
+    },
+    {
+        "id": 6,
+        "quote": "When you have faith in Allah and follow His guidance, peace will fill your heart, and difficulties will become opportunities.",
+        "religion": "Islam",
+        "source": "Inspired by Quranic principles"
+    },
+    {
+        "id": 7,
+        "quote": "You are the light of the world. A city set on a hill cannot be hidden; nor does anyone light a lamp and put it under a basket, but on the lampstand, and it gives light to all who are[...]",
+        "religion": "Christianity",
+        "source": "Matthew 5:14-15"
+    },
+    {
+        "id": 8,
+        "quote": "As a lotus flower is born in water, grows in water and rises out of water to stand above it unsoaked, so I teach you to live in the world.",
+        "religion": "Buddhism",
+        "source": "Bhagavad Gita"
+    },
+    {
+        "id": 9,
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "religion": "Judaism",
+        "source": "Inspired by Proverbs"
+    },
+    {
+        "id": 10,
+        "quote": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+        "religion": "Buddhism",
+        "source": "Dalai Lama teachings"
+    },
+    {
+        "id": 11,
+        "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+        "religion": "Sikhism",
+        "source": "Inspired by Sikh teachings of resilience"
+    },
+    {
+        "id": 12,
+        "quote": "The spiritual journey is individual, highly personal. It can't be organized or regulated. It isn't true that everyone should follow one path. Listen to your own truth.",
+        "religion": "Jainism",
+        "source": "Jain Philosophy"
+    },
+    {
+        "id": 13,
+        "quote": "Seek knowledge from the cradle to the grave.",
+        "religion": "Islam",
+        "source": "Hadith"
+    },
+    {
+        "id": 14,
+        "quote": "The self is the friend of a man who masters himself through the self, but for a man without self-mastery, the self is like an enemy.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 6.6"
+    },
+    {
+        "id": 15,
+        "quote": "Peace cannot be kept by force; it can only be achieved by understanding.",
+        "religion": "Judaism",
+        "source": "Inspired by Jewish Teachings of Peace"
+    },
+    {
+        "id": 16,
+        "quote": "The wound is the place where the Light enters you.",
+        "religion": "Sufism",
+        "source": "Rumi's Teachings"
+    },
+    {
+        "id": 17,
+        "quote": "Before you speak, let your words pass through three gates: Is it true? Is it necessary? Is it kind?",
+        "religion": "Jainism",
+        "source": "Jain Ethical Teachings"
+    },
+    {
+        "id": 18,
+        "quote": "The best among you are those who have the best manners and character.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad's Teachings"
+    },
+    {
+        "id": 19,
+        "quote": "Ahimsa paramo dharma - Non-violence is the highest moral virtue.",
+        "religion": "Jainism",
+        "source": "Jain Scriptures"
+    },
+    {
+        "id": 20,
+        "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+        "religion": "Sufism",
+        "source": "Sufi Mystical Wisdom"
+    },
+    {
+        "id": 21,
+        "quote": "The universe is not outside of you. Look inside yourself; everything that you want, you already are.",
+        "religion": "Sufism",
+        "source": "Rumi's Teachings"
+    },
+    {
+        "id": 22,
+        "quote": "Silence is the language of God, all else is poor translation.",
+        "religion": "Sikhism",
+        "source": "Sikh Spiritual Wisdom"
+    },
+    {
+        "id": 23,
+        "quote": "Peace comes from within. Do not seek it without.",
+        "religion": "Buddhism",
+        "source": "Buddha's Teachings"
+    },
+    {
+        "id": 24,
+        "quote": "Every saint has a past, and every sinner has a future.",
+        "religion": "Christianity",
+        "source": "Inspired by Christian Teachings of Redemption"
+    },
+    {
+        "id": 25,
+        "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "religion": "Buddhism",
+        "source": "Buddha's Teachings"
+    },
+    {
+        "id": 26,
+        "quote": "The quieter you become, the more you can hear.",
+        "religion": "Buddhism",
+        "source": "Zen Buddhist Wisdom"
+    },
+    {
+        "id": 27,
+        "quote": "As a person sheds worn-out garments and puts on new ones, so does the embodied soul shed its worn-out bodies and enter into new ones.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:22"
+    },
+    {
+        "id": 28,
+        "quote": "Indeed, Allah will not change the condition of a people until they change what is in themselves.",
+        "religion": "Islam",
+        "source": "Quran 13:11"
+    },
+    {
+        "id": 29,
+        "quote": "To understand everything is to forgive everything.",
+        "religion": "Hinduism",
+        "source": "Hindu Philosophical Wisdom"
+    },
+    {
+        "id": 30,
+        "quote": "The best way to find yourself is to lose yourself in the service of others.",
+        "religion": "Jainism",
+        "source": "Jain Humanitarian Teachings"
+    },
+    {
+        "id": 31,
+        "quote": "Your inner voice is your most powerful guide; learn to listen to it.",
+        "religion": "Sikhism",
+        "source": "Sikh Spiritual Guidance"
+    },
+    {
+        "id": 32,
+        "quote": "Those who have loved are those who have found God.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 33,
+        "quote": "Where there is forgiveness, there is God.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 34,
+        "quote": "He who has no faith in himself can never have faith in God.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 35,
+        "quote": "Truth is high, but higher still is truthful living.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 36,
+        "quote": "What we think, we become. The mind is everything.",
+        "religion": "Sikhism",
+        "source": "Sikh Teachings"
+    },
+    {
+        "id": 37,
+        "quote": "The world is as we are; tree of poison, tree of nectar are we.",
+        "religion": "Hinduism",
+        "source": "Yoga Vasishtha"
+    },
+    {
+        "id": 38,
+        "quote": "When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 6:19"
+    },
+    {
+        "id": 39,
+        "quote": "The self is hidden in the hearts of all, as butter lies hidden in cream.",
+        "religion": "Hinduism",
+        "source": "Shvetashvatara Upanishad"
+    },
+    {
+        "id": 40,
+        "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+        "religion": "Hinduism",
+        "source": "Hindu Wisdom"
+    },
+    {
+        "id": 41,
+        "quote": "The wise see the same in all — whether it be a learned and humble priest, a cow, an elephant, a dog, or a dog-eater.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 5:18"
+    },
+    {
+        "id": 42,
+        "quote": "Be merciful to others, just as your Father is merciful to you.",
+        "religion": "Christianity",
+        "source": "Luke 6:36"
+    },
+    {
+        "id": 43,
+        "quote": "Verily, with every hardship comes ease.",
+        "religion": "Islam",
+        "source": "Quran 94:5-6"
+    },
+    {
+        "id": 44,
+        "quote": "Live and let live - this is the essence of Jain philosophy.",
+        "religion": "Jainism",
+        "source": "Jain Principle of Ahimsa"
+    },
+    {
+        "id": 45,
+        "quote": "For God so loved the world that he gave his one and only Son.",
+        "religion": "Christianity",
+        "source": "John 3:16"
+    },
+    {
+        "id": 46,
+        "quote": "Kindness is a mark of faith, and whoever is not kind has no faith.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad's Teachings"
+    },
+    {
+        "id": 47,
+        "quote": "Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 48,
+        "quote": "Knowledge is power and it can command obedience. A man of knowledge during his lifetime can make people obey and follow him.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 49,
+        "quote": "The tongue is like a lion. If you let it loose, it will wound someone.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 50,
+        "quote": "A moment of patience in a moment of anger prevents a thousand moments of regret.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 51,
+        "quote": "The strongest among you is the one who controls his anger.",
+        "religion": "Islam",
+        "source": "Imam Ali"
+    },
+    {
+        "id": 52,
+        "quote": "Who is wise? One who learns from every person.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 4:1"
+    },
+    {
+        "id": 53,
+        "quote": "What is hateful to you, do not do to your fellow.",
+        "religion": "Judaism",
+        "source": "Hillel, Talmud Shabbat 31a"
+    },
+    {
+        "id": 54,
+        "quote": "The highest form of wisdom is kindness.",
+        "religion": "Judaism",
+        "source": "Talmud Berakot"
+    },
+    {
+        "id": 55,
+        "quote": "Say little and do much.",
+        "religion": "Judaism",
+        "source": "Shammai, Pirkei Avot 1:15"
+    },
+    {
+        "id": 56,
+        "quote": "If I am not for myself, who will be for me? If I am only for myself, what am I?",
+        "religion": "Judaism",
+        "source": "Hillel, Pirkei Avot 1:14"
+    },
+    {
+        "id": 57,
+        "quote": "Love your enemies and pray for those who persecute you.",
+        "religion": "Christianity",
+        "source": "Matthew 5:44"
+    },
+    {
+        "id": 58,
+        "quote": "Do not judge, or you too will be judged.",
+        "religion": "Christianity",
+        "source": "Matthew 7:1"
+    },
+    {
+        "id": 59,
+        "quote": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?",
+        "religion": "Christianity",
+        "source": "Mark 8:36"
+    },
+    {
+        "id": 60,
+        "quote": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+        "religion": "Christianity",
+        "source": "Ephesians 4:32"
+    },
+    {
+        "id": 61,
+        "quote": "Let all that you do be done in love.",
+        "religion": "Christianity",
+        "source": "1 Corinthians 16:14"
+    },
+    {
+        "id": 62,
+        "quote": "Your heart is the size of an ocean. Go find yourself in its hidden depths.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 63,
+        "quote": "What you seek is seeking you.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 64,
+        "quote": "The wound is the place where the Light enters you.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 65,
+        "quote": "The universe is not outside of you. Look inside yourself; everything that you want, you already are.",
+        "religion": "Sufism",
+        "source": "Ibn Arabi"
+    },
+    {
+        "id": 66,
+        "quote": "The quieter you become, the more you are able to hear.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 67,
+        "quote": "Man is the measure of all things.",
+        "religion": "Atheism",
+        "source": "Protagoras - Greek Philosopher"
+    },
+    {
+        "id": 68,
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "religion": "Atheism",
+        "source": "Socrates - Greek Philosopher"
+    },
+    {
+        "id": 69,
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "religion": "Atheism",
+        "source": "Aristotle - Greek Philosopher"
+    },
+    {
+        "id": 70,
+        "quote": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+        "religion": "Atheism",
+        "source": "Marcus Aurelius - Roman Philosopher"
+    },
+    {
+        "id": 71,
+        "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+        "religion": "Atheism",
+        "source": "Marcus Aurelius - Roman Stoic"
+    },
+    {
+        "id": 72,
+        "quote": "When you arise in the morning, think of what a precious privilege it is to be alive.",
+        "religion": "Atheism",
+        "source": "Marcus Aurelius - Roman Philosopher"
+    },
+    {
+        "id": 73,
+        "quote": "Death does not concern us, because as long as we exist, death is not here. And when it comes, then we do not exist.",
+        "religion": "Atheism",
+        "source": "Epicurus - Greek Philosopher"
+    },
+    {
+        "id": 74,
+        "quote": "The only way to deal with an unfree world is to become so absolutely free that very existence is an act of rebellion.",
+        "religion": "Atheism",
+        "source": "Albert Camus - French Philosopher"
+    },
+    {
+        "id": 75,
+        "quote": "One should as a rule respect public opinion in so far as is necessary to avoid starvation and imprisonment, but anything beyond this is voluntary submission to an unnecessary tyranny.",
+        "religion": "Atheism",
+        "source": "Bertrand Russell - British Philosopher"
+    },
+    {
+        "id": 76,
+        "quote": "The only real freedom is freedom of thought. Everything else follows from that.",
+        "religion": "Atheism",
+        "source": "Voltaire - French Philosopher"
+    },
+    {
+        "id": 77,
+        "quote": "Do not believe in anything simply because you have heard it. But believe in nothing unless you yourself have tested and verified it.",
+        "religion": "Atheism",
+        "source": "Buddha - (Secular Interpretation)"
+    },
+    {
+        "id": 78,
+        "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate.",
+        "religion": "Atheism",
+        "source": "Ralph Waldo Emerson - American Philosopher"
+    },
+    {
+        "id": 79,
+        "quote": "We are dying from overthinking. We are slowly killing ourselves by drowning in our thoughts. We cannot silence our minds.",
+        "religion": "Atheism",
+        "source": "Socrates - (Modern Interpretation)"
+    },
+    {
+        "id": 80,
+        "quote": "All knowledge begins with wonder.",
+        "religion": "Atheism",
+        "source": "Socrates - Greek Philosopher"
+    },
+    {
+        "id": 81,
+        "quote": "The unexamined life is not worth living.",
+        "religion": "Atheism",
+        "source": "Socrates - Greek Philosopher"
+    },
+    {
+        "id": 82,
+        "quote": "In the depth of winter, I finally learned that there was in me an invincible summer.",
+        "religion": "Atheism",
+        "source": "Albert Camus - French Philosopher"
+    },
+    {
+        "id": 83,
+        "quote": "It is the marks of an educated mind to be able to entertain a thought without accepting it.",
+        "religion": "Atheism",
+        "source": "Aristotle - Greek Philosopher"
+    },
+    {
+        "id": 84,
+        "quote": "The meaning of life is what we give to it through our actions and choices.",
+        "religion": "Atheism",
+        "source": "Jean-Paul Sartre - French Existentialist"
+    },
+    {
+        "id": 85,
+        "quote": "I think, therefore I am.",
+        "religion": "Atheism",
+        "source": "René Descartes - French Philosopher"
+    },
+    {
+        "id": 86,
+        "quote": "The only constant in life is change.",
+        "religion": "Atheism",
+        "source": "Heraclitus - Greek Philosopher"
+    },
+    {
+        "id": 87,
+        "quote": "Everything is in flux; everything flows.",
+        "religion": "Atheism",
+        "source": "Heraclitus - Greek Philosopher"
+    },
+    {
+        "id": 88,
+        "quote": "Live simply so that others may simply live.",
+        "religion": "Atheism",
+        "source": "Mahatma Gandhi - (Secular Philosophy)"
+    },
+    {
+        "id": 89,
+        "quote": "The only true path to enlightenment is through reason and observation.",
+        "religion": "Atheism",
+        "source": "David Hume - Scottish Philosopher"
+    },
+    {
+        "id": 90,
+        "quote": "Happiness is achieved by the practice of virtue.",
+        "religion": "Atheism",
+        "source": "Aristotle - Greek Philosopher"
+    },
+    {
+        "id": 91,
+        "quote": "The basis of morality is not religious dogma, but human compassion.",
+        "religion": "Atheism",
+        "source": "Arthur Schopenhauer - German Philosopher"
+    },
+    {
+        "id": 92,
+        "quote": "Freedom is not the absence of commitments, but the ability to choose what to commit to.",
+        "religion": "Atheism",
+        "source": "Simone de Beauvoir - French Existentialist"
+    },
+    {
+        "id": 93,
+        "quote": "We are not makers of history. We are made by history.",
+        "religion": "Atheism",
+        "source": "Martin Luther King Jr. - (Historical Perspective)"
+    },
+    {
+        "id": 94,
+        "quote": "The best way to predict your future is to create it.",
+        "religion": "Atheism",
+        "source": "Peter Drucker - Management Philosopher"
+    },
+    {
+        "id": 95,
+        "quote": "Know thyself.",
+        "religion": "Atheism",
+        "source": "Socrates - Greek Philosopher"
+    },
+    {
+        "id": 96,
+        "quote": "In the middle of difficulty lies opportunity.",
+        "religion": "Atheism",
+        "source": "Albert Einstein - (Philosophical Perspective)"
+    },
+    {
+        "id": 97,
+        "quote": "The arc of the moral universe is long, but it bends toward justice.",
+        "religion": "Atheism",
+        "source": "Theodore Parker - American Philosopher"
+    },
+    {
+        "id": 98,
+        "quote": "And whoever puts their trust in Allah, then He will suffice him.",
+        "religion": "Islam",
+        "source": "Quran 65:3"
+    },
+    {
+        "id": 99,
+        "quote": "The most beloved of deeds to Allah are those that are most consistent, even if they are small.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Sahih Bukhari)"
+    },
+    {
+        "id": 100,
+        "quote": "And We have certainly made the Quran easy for remembrance, so is there any who will remember?",
+        "religion": "Islam",
+        "source": "Quran 54:17"
+    },
+    {
+        "id": 101,
+        "quote": "Take advantage of five before five: your youth before your old age, your health before your sickness, your wealth before your poverty, your free time before your busyness, and your life before your death.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Sahih Bukhari)"
+    },
+    {
+        "id": 102,
+        "quote": "Do not lose hope, nor be sad. You will surely be victorious if you are true believers.",
+        "religion": "Islam",
+        "source": "Quran 3:139"
+    },
+    {
+        "id": 103,
+        "quote": "Be in this world as though you were a stranger or a traveler.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Sahih Bukhari)"
+    },
+    {
+        "id": 104,
+        "quote": "And speak to people good words.",
+        "religion": "Islam",
+        "source": "Quran 2:83"
+    },
+    {
+        "id": 105,
+        "quote": "Whoever is grateful — it is for the benefit of his own soul. And whoever is ungrateful — my Lord is Self-Sufficient and Generous.",
+        "religion": "Islam",
+        "source": "Quran 27:40"
+    },
+    {
+        "id": 106,
+        "quote": "The one who repents from sin is like the one who has no sin at all.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Ibn Majah)"
+    },
+    {
+        "id": 107,
+        "quote": "Truly in the heart there is a sadness that cannot be removed except with the happiness of knowing Allah.",
+        "religion": "Islam",
+        "source": "Ibn Qayyim Al-Jawziyyah"
+    },
+    {
+        "id": 108,
+        "quote": "So remember Me; I will remember you. Be thankful to Me, and never be ungrateful.",
+        "religion": "Islam",
+        "source": "Quran 2:152"
+    },
+    {
+        "id": 109,
+        "quote": "None of you truly believes until he wishes for his brother what he wishes for himself.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Sahih Bukhari & Muslim)"
+    },
+    {
+        "id": 110,
+        "quote": "This world is a prison for the believer and a paradise for the disbeliever.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Sahih Muslim)"
+    },
+    {
+        "id": 111,
+        "quote": "O son of Adam, you have nothing of this world except what you ate and consumed, what you wore and it became worn out, and what you gave in charity and it was stored for you.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Sahih Muslim)"
+    },
+    {
+        "id": 112,
+        "quote": "When Allah loves a servant, He tests him.",
+        "religion": "Islam",
+        "source": "Prophet Muhammad (Tirmidhi)"
+    },
+    {
+        "id": 113,
+        "quote": "Patience is the key to relief.",
+        "religion": "Islam",
+        "source": "Imam Ali ibn Abi Talib"
+    },
+    {
+        "id": 114,
+        "quote": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+        "religion": "Islam",
+        "source": "Quran 2:153"
+    },
+    {
+        "id": 115,
+        "quote": "The dunya is not the resting place, it is the testing place.",
+        "religion": "Islam",
+        "source": "Hassan al-Basri"
+    },
+    {
+        "id": 116,
+        "quote": "If you are grateful, I will surely increase you in favor. But if you deny, indeed My punishment is severe.",
+        "religion": "Islam",
+        "source": "Quran 14:7"
+    },
+    {
+        "id": 117,
+        "quote": "And we know that in all things God works for the good of those who love Him, who have been called according to His purpose.",
+        "religion": "Christianity",
+        "source": "Romans 8:28"
+    },
+    {
+        "id": 118,
+        "quote": "I can do all things through Christ who strengthens me.",
+        "religion": "Christianity",
+        "source": "Philippians 4:13"
+    },
+    {
+        "id": 119,
+        "quote": "Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
+        "religion": "Christianity",
+        "source": "Isaiah 41:10"
+    },
+    {
+        "id": 120,
+        "quote": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.",
+        "religion": "Christianity",
+        "source": "Jeremiah 29:11"
+    },
+    {
+        "id": 121,
+        "quote": "Come to me, all you who are weary and burdened, and I will give you rest.",
+        "religion": "Christianity",
+        "source": "Matthew 11:28"
+    },
+    {
+        "id": 122,
+        "quote": "Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life.",
+        "religion": "Christianity",
+        "source": "James 1:12"
+    },
+    {
+        "id": 123,
+        "quote": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.",
+        "religion": "Christianity",
+        "source": "Galatians 6:9"
+    },
+    {
+        "id": 124,
+        "quote": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
+        "religion": "Christianity",
+        "source": "2 Timothy 1:7"
+    },
+    {
+        "id": 125,
+        "quote": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+        "religion": "Christianity",
+        "source": "2 Corinthians 5:17"
+    },
+    {
+        "id": 126,
+        "quote": "Cast all your anxiety on Him because He cares for you.",
+        "religion": "Christianity",
+        "source": "1 Peter 5:7"
+    },
+    {
+        "id": 127,
+        "quote": "Above all else, guard your heart, for everything you do flows from it.",
+        "religion": "Christianity",
+        "source": "Proverbs 4:23"
+    },
+    {
+        "id": 128,
+        "quote": "Be still, and know that I am God.",
+        "religion": "Christianity",
+        "source": "Psalm 46:10"
+    },
+    {
+        "id": 129,
+        "quote": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+        "religion": "Christianity",
+        "source": "Joshua 1:9"
+    },
+    {
+        "id": 130,
+        "quote": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
+        "religion": "Christianity",
+        "source": "Micah 6:8"
+    },
+    {
+        "id": 131,
+        "quote": "The light shines in the darkness, and the darkness has not overcome it.",
+        "religion": "Christianity",
+        "source": "John 1:5"
+    },
+    {
+        "id": 132,
+        "quote": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+        "religion": "Christianity",
+        "source": "Isaiah 40:31"
+    },
+    {
+        "id": 133,
+        "quote": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+        "religion": "Christianity",
+        "source": "Hebrews 11:1"
+    },
+    {
+        "id": 134,
+        "quote": "The steadfast love of the Lord never ceases; His mercies never come to an end; they are new every morning; great is your faithfulness.",
+        "religion": "Christianity",
+        "source": "Lamentations 3:22-23"
+    },
+    {
+        "id": 135,
+        "quote": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment.",
+        "religion": "Christianity",
+        "source": "1 John 4:18"
+    },
+    {
+        "id": 136,
+        "quote": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind.",
+        "religion": "Christianity",
+        "source": "Romans 12:2"
+    },
+    {
+        "id": 137,
+        "quote": "You have the right to work, but never to the fruit of work.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:47"
+    },
+    {
+        "id": 138,
+        "quote": "From anger comes delusion; from delusion, loss of memory; from loss of memory, the destruction of intelligence; and from the destruction of intelligence one perishes.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:63"
+    },
+    {
+        "id": 139,
+        "quote": "Even as a tortoise draws in its limbs, the wise can draw in their senses at will.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:58"
+    },
+    {
+        "id": 140,
+        "quote": "The mind is restless and difficult to restrain, but it is subdued by practice.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 6:35"
+    },
+    {
+        "id": 141,
+        "quote": "He who sees Me everywhere and sees everything in Me, I am not lost to him, nor is he lost to Me.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 6:30"
+    },
+    {
+        "id": 142,
+        "quote": "The self-controlled soul, who moves among sense objects free from attraction and repulsion, attains tranquility.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:64"
+    },
+    {
+        "id": 143,
+        "quote": "One who sees inaction in action, and action in inaction, is intelligent among men.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 4:18"
+    },
+    {
+        "id": 144,
+        "quote": "Arise, awake, and stop not till the goal is reached.",
+        "religion": "Hinduism",
+        "source": "Katha Upanishad"
+    },
+    {
+        "id": 145,
+        "quote": "Lead me from the unreal to the real, from darkness to light, from death to immortality.",
+        "religion": "Hinduism",
+        "source": "Brihadaranyaka Upanishad 1.3.28"
+    },
+    {
+        "id": 146,
+        "quote": "Truth alone triumphs, not falsehood.",
+        "religion": "Hinduism",
+        "source": "Mundaka Upanishad 3.1.6"
+    },
+    {
+        "id": 147,
+        "quote": "The whole world is one family.",
+        "religion": "Hinduism",
+        "source": "Maha Upanishad 6.71"
+    },
+    {
+        "id": 148,
+        "quote": "Tat tvam asi — Thou art that.",
+        "religion": "Hinduism",
+        "source": "Chandogya Upanishad"
+    },
+    {
+        "id": 149,
+        "quote": "May all beings be happy. May all beings be free from suffering. May all beings find peace.",
+        "religion": "Hinduism",
+        "source": "Brihadaranyaka Upanishad"
+    },
+    {
+        "id": 150,
+        "quote": "Better indeed is knowledge than mechanical practice. Better than knowledge is meditation.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 12:12"
+    },
+    {
+        "id": 151,
+        "quote": "Perform your obligatory duty, because action is indeed better than inaction.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 3:8"
+    },
+    {
+        "id": 152,
+        "quote": "The faith of each is in accordance with one's own nature.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 17:3"
+    },
+    {
+        "id": 153,
+        "quote": "There is nothing lost or wasted in this life.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 2:40"
+    },
+    {
+        "id": 154,
+        "quote": "Reshape yourself through the power of your will; never let yourself be degraded by self-will.",
+        "religion": "Hinduism",
+        "source": "Bhagavad Gita 6:5"
+    },
+    {
+        "id": 155,
+        "quote": "The senses are higher than the body, the mind higher than the senses; above the mind is the intellect, and above the intellect is the Self.",
+        "religion": "Hinduism",
+        "source": "Katha Upanishad 1.3.10"
+    },
+    {
+        "id": 156,
+        "quote": "That which is the finest essence — this whole world has that as its soul. That is reality. That is the Self.",
+        "religion": "Hinduism",
+        "source": "Chandogya Upanishad 6.8.7"
+    },
+    {
+        "id": 157,
+        "quote": "Let your aim be the good of all.",
+        "religion": "Hinduism",
+        "source": "Rig Veda"
+    },
+    {
+        "id": 158,
+        "quote": "When a man is free from desire, his mind and heart find eternal peace.",
+        "religion": "Hinduism",
+        "source": "Katha Upanishad"
+    },
+    {
+        "id": 159,
+        "quote": "Justice, justice shall you pursue.",
+        "religion": "Judaism",
+        "source": "Deuteronomy 16:20"
+    },
+    {
+        "id": 160,
+        "quote": "You shall love your neighbor as yourself.",
+        "religion": "Judaism",
+        "source": "Leviticus 19:18"
+    },
+    {
+        "id": 161,
+        "quote": "Whoever saves a single life, it is as if they saved the entire world.",
+        "religion": "Judaism",
+        "source": "Talmud Sanhedrin 37a"
+    },
+    {
+        "id": 162,
+        "quote": "It is not upon you to finish the work, but neither are you free to desist from it.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 2:16"
+    },
+    {
+        "id": 163,
+        "quote": "The world stands on three things: Torah, divine service, and acts of loving-kindness.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 1:2"
+    },
+    {
+        "id": 164,
+        "quote": "In a place where there are no men, strive to be a man.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 2:5"
+    },
+    {
+        "id": 165,
+        "quote": "Who is rich? One who is happy with what they have.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 4:1"
+    },
+    {
+        "id": 166,
+        "quote": "Be of the disciples of Aaron: loving peace and pursuing peace.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 1:12"
+    },
+    {
+        "id": 167,
+        "quote": "The righteous of all nations have a share in the world to come.",
+        "religion": "Judaism",
+        "source": "Tosefta Sanhedrin 13:2"
+    },
+    {
+        "id": 168,
+        "quote": "Deeds of kindness are equal in weight to all the commandments.",
+        "religion": "Judaism",
+        "source": "Talmud Yerushalmi Peah 1:1"
+    },
+    {
+        "id": 169,
+        "quote": "Turn it and turn it, for everything is in it.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 5:22"
+    },
+    {
+        "id": 170,
+        "quote": "Pray as if everything depended on God. Act as if everything depended on you.",
+        "religion": "Judaism",
+        "source": "Jewish Proverb"
+    },
+    {
+        "id": 171,
+        "quote": "The beginning of wisdom is the fear of the Lord.",
+        "religion": "Judaism",
+        "source": "Psalm 111:10"
+    },
+    {
+        "id": 172,
+        "quote": "Do not judge your fellow until you have stood in their place.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 2:4"
+    },
+    {
+        "id": 173,
+        "quote": "A good name is better than precious oil.",
+        "religion": "Judaism",
+        "source": "Ecclesiastes 7:1"
+    },
+    {
+        "id": 174,
+        "quote": "Hear, O Israel: The Lord our God, the Lord is one.",
+        "religion": "Judaism",
+        "source": "Deuteronomy 6:4"
+    },
+    {
+        "id": 175,
+        "quote": "I have set before you life and death, blessing and curse. Therefore choose life.",
+        "religion": "Judaism",
+        "source": "Deuteronomy 30:19"
+    },
+    {
+        "id": 176,
+        "quote": "Love truth and peace.",
+        "religion": "Judaism",
+        "source": "Zechariah 8:19"
+    },
+    {
+        "id": 177,
+        "quote": "Words that come from the heart enter the heart.",
+        "religion": "Judaism",
+        "source": "Moses ibn Ezra"
+    },
+    {
+        "id": 178,
+        "quote": "When you teach your son, you teach your son's son.",
+        "religion": "Judaism",
+        "source": "Talmud Kiddushin 30a"
+    },
+    {
+        "id": 179,
+        "quote": "There is no person who does not have their hour.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 4:3"
+    },
+    {
+        "id": 180,
+        "quote": "Where there is no bread, there is no Torah; where there is no Torah, there is no bread.",
+        "religion": "Judaism",
+        "source": "Pirkei Avot 3:17"
+    },
+    {
+        "id": 181,
+        "quote": "Repair the world.",
+        "religion": "Judaism",
+        "source": "Tikkun Olam - Jewish Ethical Teaching"
+    },
+    {
+        "id": 182,
+        "quote": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 183,
+        "quote": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 1:5"
+    },
+    {
+        "id": 184,
+        "quote": "An insincere and evil friend is more to be feared than a wild beast; a wild beast may wound your body, but an evil friend will wound your mind.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 185,
+        "quote": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 204"
+    },
+    {
+        "id": 186,
+        "quote": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+        "religion": "Buddhism",
+        "source": "Buddhist Wisdom"
+    },
+    {
+        "id": 187,
+        "quote": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 165"
+    },
+    {
+        "id": 188,
+        "quote": "Every morning we are born again. What we do today is what matters most.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 189,
+        "quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+        "religion": "Buddhism",
+        "source": "Buddhist Teaching"
+    },
+    {
+        "id": 190,
+        "quote": "The root of suffering is attachment.",
+        "religion": "Buddhism",
+        "source": "Four Noble Truths"
+    },
+    {
+        "id": 191,
+        "quote": "Better than a thousand hollow words, is one word that brings peace.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 100"
+    },
+    {
+        "id": 192,
+        "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 193,
+        "quote": "Pain is certain, suffering is optional.",
+        "religion": "Buddhism",
+        "source": "Buddhist Proverb"
+    },
+    {
+        "id": 194,
+        "quote": "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 195,
+        "quote": "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 1:1"
+    },
+    {
+        "id": 196,
+        "quote": "There is no path to happiness: happiness is the path.",
+        "religion": "Buddhism",
+        "source": "Buddhist Wisdom"
+    },
+    {
+        "id": 197,
+        "quote": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 198,
+        "quote": "If you light a lamp for someone else, it will also brighten your path.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 199,
+        "quote": "The only real failure in life is not to be true to the best one knows.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 200,
+        "quote": "Nothing ever exists entirely alone; everything is in relation to everything else.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 201,
+        "quote": "A disciplined mind brings happiness.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 35"
+    },
+    {
+        "id": 202,
+        "quote": "Radiate boundless love towards the entire world — above, below, and across.",
+        "religion": "Buddhism",
+        "source": "Metta Sutta"
+    },
+    {
+        "id": 203,
+        "quote": "If anything is worth doing, do it with all your heart.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 204,
+        "quote": "Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 223"
+    },
+    {
+        "id": 205,
+        "quote": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+        "religion": "Buddhism",
+        "source": "Dhammapada 42"
+    },
+    {
+        "id": 206,
+        "quote": "It is better to travel well than to arrive.",
+        "religion": "Buddhism",
+        "source": "Buddha"
+    },
+    {
+        "id": 207,
+        "quote": "One moment can change a day, one day can change a life, and one life can change the world.",
+        "religion": "Buddhism",
+        "source": "Buddhist Wisdom"
+    },
+    {
+        "id": 208,
+        "quote": "Even Kings and emperors with heaps of wealth and vast dominion cannot compare with an ant filled with the love of God.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 209,
+        "quote": "Burn worldly love, rub the ashes and make ink of it, make the heart the pen, the intellect the writer.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 210,
+        "quote": "Conquer your mind and you conquer the world.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 211,
+        "quote": "One cannot comprehend Him through reason, even if one reasoned for ages.",
+        "religion": "Sikhism",
+        "source": "Japji Sahib"
+    },
+    {
+        "id": 212,
+        "quote": "Speak only that which will bring you honor.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 213,
+        "quote": "Dwell in peace in the home of your own being, and the Messenger of Death will not be able to touch you.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 214,
+        "quote": "As you plant, so shall you harvest.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 215,
+        "quote": "There is but one God. True is His Name, creative His personality, and immortal His form.",
+        "religion": "Sikhism",
+        "source": "Mool Mantar - Japji Sahib"
+    },
+    {
+        "id": 216,
+        "quote": "Whatever you desire, ask from God alone.",
+        "religion": "Sikhism",
+        "source": "Guru Arjan Dev Ji"
+    },
+    {
+        "id": 217,
+        "quote": "Running away from the world is not the way. One must find peace within the world.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 218,
+        "quote": "Through selfless service, eternal peace is obtained.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 219,
+        "quote": "God is one, but He has innumerable forms.",
+        "religion": "Sikhism",
+        "source": "Guru Gobind Singh Ji"
+    },
+    {
+        "id": 220,
+        "quote": "Let compassion be your cotton, contentment your thread, modesty your knot, and truth your twist.",
+        "religion": "Sikhism",
+        "source": "Japji Sahib"
+    },
+    {
+        "id": 221,
+        "quote": "If you want the fruits of love and peace, plant the seeds of humility.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 222,
+        "quote": "Recognize the Lord's Light within all, and do not consider social class or status.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 223,
+        "quote": "The highest religion is to rise to universal brotherhood; aye, to consider all creatures your equals.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 224,
+        "quote": "One cannot be a saint outside while being a thief at heart.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 225,
+        "quote": "Meditation is the key to the door of liberation.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 226,
+        "quote": "True is the Master, true is His Name — speak it with infinite love.",
+        "religion": "Sikhism",
+        "source": "Japji Sahib"
+    },
+    {
+        "id": 227,
+        "quote": "Share your earnings with others, eat together, and give to those in need. This is the true path.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji (Vand Chakko)"
+    },
+    {
+        "id": 228,
+        "quote": "Nanak, the whole world is in distress. He who believes in the Name becomes victorious.",
+        "religion": "Sikhism",
+        "source": "Guru Nanak Dev Ji"
+    },
+    {
+        "id": 229,
+        "quote": "Without virtue, all are without merit and without worth.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 230,
+        "quote": "Only those who are awake in the love of God are truly alive.",
+        "religion": "Sikhism",
+        "source": "Guru Granth Sahib"
+    },
+    {
+        "id": 231,
+        "quote": "Every soul is in itself absolutely omniscient and blissful. The bliss does not come from outside.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 232,
+        "quote": "Do not injure, abuse, oppress, enslave, insult, torment, torture, or kill any creature or living being.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 233,
+        "quote": "All souls are alike; none is superior or inferior.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 234,
+        "quote": "Anger begets more anger, and forgiveness and love lead to more forgiveness and love.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 235,
+        "quote": "The greatest mistake of a soul is non-recognition of its real self, and it can only be corrected by recognizing itself.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 236,
+        "quote": "Have compassion for all beings — rich and poor alike; each has their suffering.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 237,
+        "quote": "There is no enemy outside our soul. The real enemies live inside us — anger, pride, greed, and attachment.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 238,
+        "quote": "Silence and self-control is non-violence.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 239,
+        "quote": "In happiness and suffering, in joy and grief, we should regard all creatures as we regard our own self.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 240,
+        "quote": "Kill not, cause no pain. Nonviolence is the greatest religion.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 241,
+        "quote": "All human beings are miserable due to their own faults, and they themselves can be happy by correcting these faults.",
+        "religion": "Jainism",
+        "source": "Jain Proverb"
+    },
+    {
+        "id": 242,
+        "quote": "A living body is not merely an integration of limbs and flesh but it is the abode of the soul.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 243,
+        "quote": "Can you hold a red-hot iron rod in your hand merely because someone wants you to do so? Then why should you mentally bear the burden of anger towards anyone?",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 244,
+        "quote": "Respect for all living beings is non-violence.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 245,
+        "quote": "The soul comes alone and goes alone; no one companying it and no one playing the role of a foe.",
+        "religion": "Jainism",
+        "source": "Jain Teachings"
+    },
+    {
+        "id": 246,
+        "quote": "Attachment and aversion are the root cause of karma, and karma originates from infatuation.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 247,
+        "quote": "Fight with yourself; why fight with external foes? He who conquers himself through himself will obtain happiness.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 248,
+        "quote": "One who neglects or disregards the existence of earth, air, fire, water, and vegetation disregards his own existence.",
+        "religion": "Jainism",
+        "source": "Mahavira"
+    },
+    {
+        "id": 249,
+        "quote": "The soul is the master of its own destiny.",
+        "religion": "Jainism",
+        "source": "Jain Philosophy"
+    },
+    {
+        "id": 250,
+        "quote": "Real gold does not fear the test of fire.",
+        "religion": "Jainism",
+        "source": "Jain Proverb"
+    },
+    {
+        "id": 251,
+        "quote": "All breathing, existing, living, sentient creatures should not be slain, nor treated with violence.",
+        "religion": "Jainism",
+        "source": "Acharanga Sutra"
+    },
+    {
+        "id": 252,
+        "quote": "Liberation is achieved not by rituals but by the conquest of passions.",
+        "religion": "Jainism",
+        "source": "Jain Teachings"
+    },
+    {
+        "id": 253,
+        "quote": "A wise person treats all living beings as he would treat himself.",
+        "religion": "Jainism",
+        "source": "Sutrakritanga 1.11.33"
+    },
+    {
+        "id": 254,
+        "quote": "Forgiveness is the ornament of the brave.",
+        "religion": "Jainism",
+        "source": "Jain Proverb"
+    },
+    {
+        "id": 255,
+        "quote": "The greatest wealth is contentment; the greatest disease is greed.",
+        "religion": "Jainism",
+        "source": "Jain Proverb"
+    },
+    {
+        "id": 256,
+        "quote": "Truthfulness is the foundation of all virtues.",
+        "religion": "Jainism",
+        "source": "Jain Agamas"
+    },
+    {
+        "id": 257,
+        "quote": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 258,
+        "quote": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 259,
+        "quote": "The soul has been given its own ears to hear things the mind does not understand.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 260,
+        "quote": "Stop acting so small. You are the universe in ecstatic motion.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 261,
+        "quote": "Don't grieve. Anything you lose comes round in another form.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 262,
+        "quote": "Let the beauty of what you love be what you do.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 263,
+        "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 264,
+        "quote": "Be like the sun for grace and mercy. Be like the night to cover others' faults. Be like running water for generosity.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 265,
+        "quote": "Lovers don't finally meet somewhere. They're in each other all along.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 266,
+        "quote": "Where there is ruin, there is hope for a treasure.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 267,
+        "quote": "The garden of the world has no limits, except in your mind.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 268,
+        "quote": "You were born with wings, why prefer to crawl through life?",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 269,
+        "quote": "Love is the bridge between you and everything.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 270,
+        "quote": "The moon stays bright when it doesn't avoid the night.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 271,
+        "quote": "You are not a drop in the ocean. You are the entire ocean in a drop.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 272,
+        "quote": "When you do things from your soul, you feel a river moving in you, a joy.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 273,
+        "quote": "Close your eyes, fall in love, stay there.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 274,
+        "quote": "The only lasting beauty is the beauty of the heart.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 275,
+        "quote": "Die before you die and find that there is no death.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 276,
+        "quote": "I want to sing like the birds sing, not worrying about who hears or what they think.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 277,
+        "quote": "Patience is not sitting and waiting, it is foreseeing. It is looking at the thorn and seeing the rose.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 278,
+        "quote": "In each moment the fire rages, it will burn away a hundred veils and carry you a thousand steps toward your goal.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    },
+    {
+        "id": 279,
+        "quote": "Become the sky. Take an axe to the prison wall. Escape.",
+        "religion": "Sufism",
+        "source": "Rumi"
+    }
+]
